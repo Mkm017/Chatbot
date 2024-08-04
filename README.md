@@ -1,20 +1,20 @@
 # Chatbot
 Welcome to the Chatbot Project repository! This project is a versatile and interactive chatbot designed to provide various functionalities, including answering questions, providing recommendations, and more. The chatbot is built using Python, Anaconda, and Google Gemini.
 
-*Table of Contents
+#Table of Contents
 Introduction
 Features
 Installation
 Usage
 
-*Introduction
+#Introduction
 This chatbot project aims to create an intelligent assistant capable of understanding and responding to user queries. The chatbot sets up a virtual environment to run on a local host using Anaconda, ensuring an isolated and consistent development environment. It sends queries to Google Gemini and retrieves the answers, providing a seamless and efficient interaction experience.
 
-*Features
+#Features
 Simple User Interface
 Utilizes Features of Google Gemini for Accurate and Fast Responses
 
-*Installation
+#Installation
 To get started with the chatbot, follow these steps:
 
 1.Install Anaconda and Python IDLE:
@@ -46,5 +46,5 @@ You can get a free API key for Google Gemini Pro.
 In the terminal, run the following command:
 streamlit run app.py
 
-*Usage
+#Usage
 Once the chatbot is up and running, it will open in your default browser, and you can interact with it. You can also customize its interface according to your needs.
