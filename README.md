@@ -3,8 +3,11 @@ Welcome to the Chatbot Project repository! This project is a versatile and inter
 
 # Table of Contents
 Introduction
+
 Features
+
 Installation
+
 Usage
 
 # Introduction
